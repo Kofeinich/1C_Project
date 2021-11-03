@@ -1,0 +1,13 @@
+.env
+build/
+allure-report/
+
+ConfigDumpInfo.xml
+build
+out
+.scannerwork
+src/*.bin
+src/*.mxlx
+src/*.html
+kommit.txt
+debug.log
