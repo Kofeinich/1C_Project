@@ -13,7 +13,10 @@
 			<IncludeHelpInContents>true</IncludeHelpInContents>
 			<IncludeInCommandInterface>true</IncludeInCommandInterface>
 			<Explanation/>
-			<Picture/>
+			<Picture>
+				<xr:Ref>CommonPicture.ПодсистемаПродажи</xr:Ref>
+				<xr:LoadTransparent>true</xr:LoadTransparent>
+			</Picture>
 			<Content>
 				<xr:Item xsi:type="xr:MDObjectRef">Document.РеализцияТоваровИУслуг</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Document.ВыпискаБанка</xr:Item>
@@ -22,6 +25,8 @@
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ЦеныНоменклатуры</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.Взаиморасчеты</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.Продажи</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.ПродажиТоваровПоДокументам</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.ОстаткиВзаиморасчетов</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

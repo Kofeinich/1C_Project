@@ -218,6 +218,12 @@
 			<Subsystem>Продажи</Subsystem>
 			<Subsystem>Закупки</Subsystem>
 			<Subsystem>НСИ</Subsystem>
+			<CommonPicture>ПодсистемаПродажи</CommonPicture>
+			<CommonPicture>ПодсистемаЗакупки</CommonPicture>
+			<CommonPicture>ПодсистемаНСИ</CommonPicture>
+			<Role>Администратор</Role>
+			<Role>Пользователь</Role>
+			<Role>Менеджер</Role>
 			<Constant>НаименованиеОрагнизации</Constant>
 			<Catalog>Склады</Catalog>
 			<Catalog>Контрагенты</Catalog>
@@ -230,6 +236,10 @@
 			<Document>УстановкаЦенНоменклатуры</Document>
 			<DocumentJournal>ТорговыеДокументы</DocumentJournal>
 			<Enum>ТипыТоваров</Enum>
+			<Report>ОтчетПоКонтрагентам</Report>
+			<Report>ПоставщикиНоменклатура</Report>
+			<Report>ПродажиТоваровПоДокументам</Report>
+			<Report>ОстаткиВзаиморасчетов</Report>
 			<InformationRegister>КурсыВалют</InformationRegister>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<AccumulationRegister>Взаиморасчеты</AccumulationRegister>
