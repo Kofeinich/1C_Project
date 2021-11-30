@@ -47,7 +47,9 @@
 				<v8:Value xsi:type="app:ApplicationUsePurpose">PlatformApplication</v8:Value>
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
-			<DefaultRoles/>
+			<DefaultRoles>
+				<xr:Item xsi:type="xr:MDObjectRef">Role.БазовыеПрава</xr:Item>
+			</DefaultRoles>
 			<Vendor/>
 			<Version/>
 			<UpdateCatalogAddress/>
@@ -221,9 +223,10 @@
 			<CommonPicture>ПодсистемаПродажи</CommonPicture>
 			<CommonPicture>ПодсистемаЗакупки</CommonPicture>
 			<CommonPicture>ПодсистемаНСИ</CommonPicture>
-			<Role>Администратор</Role>
-			<Role>Пользователь</Role>
-			<Role>Менеджер</Role>
+			<Role>ПолныеПрава</Role>
+			<Role>БазовыеПрава</Role>
+			<Role>ОткрытиеВнешнихОбработок</Role>
+			<Role>ПраваНаЗакупки</Role>
 			<Constant>НаименованиеОрагнизации</Constant>
 			<Catalog>Склады</Catalog>
 			<Catalog>Контрагенты</Catalog>
