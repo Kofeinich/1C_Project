@@ -236,6 +236,7 @@
 			<Catalog>Валюты</Catalog>
 			<Catalog>Организации</Catalog>
 			<Catalog>Пользователи</Catalog>
+			<Catalog>Организация</Catalog>
 			<Document>ЗаказКлиента</Document>
 			<Document>ПоступлениеТоваровИУслуг</Document>
 			<Document>РеализцияТоваровИУслуг</Document>
