@@ -223,15 +223,19 @@
 			<CommonPicture>ПодсистемаПродажи</CommonPicture>
 			<CommonPicture>ПодсистемаЗакупки</CommonPicture>
 			<CommonPicture>ПодсистемаНСИ</CommonPicture>
+			<SessionParameter>ТекущийПользователь</SessionParameter>
 			<Role>ПолныеПрава</Role>
 			<Role>БазовыеПрава</Role>
 			<Role>ОткрытиеВнешнихОбработок</Role>
 			<Role>ПраваНаЗакупки</Role>
+			<Role>ПросмотрСправочникаКонтрагенты</Role>
 			<Constant>НаименованиеОрагнизации</Constant>
 			<Catalog>Склады</Catalog>
 			<Catalog>Контрагенты</Catalog>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Валюты</Catalog>
+			<Catalog>Организации</Catalog>
+			<Catalog>Пользователи</Catalog>
 			<Document>ЗаказКлиента</Document>
 			<Document>ПоступлениеТоваровИУслуг</Document>
 			<Document>РеализцияТоваровИУслуг</Document>
