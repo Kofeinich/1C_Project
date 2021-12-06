@@ -40,6 +40,7 @@
 		</InputField>
 		<PictureField name="СсылкаНаКартинку" id="16">
 			<DataPath>СсылкаНаКартинку</DataPath>
+			<PictureSize>AutoSize</PictureSize>
 			<Hyperlink>true</Hyperlink>
 			<ContextMenu name="СсылкаНаКартинкуКонтекстноеМеню" id="17"/>
 			<ExtendedTooltip name="СсылкаНаКартинкуРасширеннаяПодсказка" id="18"/>
