@@ -220,6 +220,7 @@
 			<Subsystem>Продажи</Subsystem>
 			<Subsystem>Закупки</Subsystem>
 			<Subsystem>НСИ</Subsystem>
+			<Subsystem>БизнесПроцессы</Subsystem>
 			<CommonPicture>ПодсистемаПродажи</CommonPicture>
 			<CommonPicture>ПодсистемаЗакупки</CommonPicture>
 			<CommonPicture>ПодсистемаНСИ</CommonPicture>
@@ -230,6 +231,7 @@
 			<Role>ПраваНаЗакупки</Role>
 			<Role>ПросмотрСправочникаКонтрагенты</Role>
 			<Constant>НаименованиеОрагнизации</Constant>
+			<Constant>СуммаПриобретенияТребующаяСогласования</Constant>
 			<Catalog>Склады</Catalog>
 			<Catalog>Контрагенты</Catalog>
 			<Catalog>Номенклатура</Catalog>
@@ -237,6 +239,7 @@
 			<Catalog>Организации</Catalog>
 			<Catalog>Пользователи</Catalog>
 			<Catalog>Организация</Catalog>
+			<Catalog>Подразделения</Catalog>
 			<Document>ЗаказКлиента</Document>
 			<Document>ПоступлениеТоваровИУслуг</Document>
 			<Document>РеализцияТоваровИУслуг</Document>
@@ -244,14 +247,18 @@
 			<Document>УстановкаЦенНоменклатуры</Document>
 			<DocumentJournal>ТорговыеДокументы</DocumentJournal>
 			<Enum>ТипыТоваров</Enum>
+			<Enum>РезультатСогласования</Enum>
 			<Report>ОтчетПоКонтрагентам</Report>
 			<Report>ПоставщикиНоменклатура</Report>
 			<Report>ПродажиТоваровПоДокументам</Report>
 			<Report>ОстаткиВзаиморасчетов</Report>
 			<InformationRegister>КурсыВалют</InformationRegister>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
+			<InformationRegister>Адресация</InformationRegister>
 			<AccumulationRegister>Взаиморасчеты</AccumulationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>
+			<BusinessProcess>Закупка</BusinessProcess>
+			<Task>ЗадачиПользователя</Task>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

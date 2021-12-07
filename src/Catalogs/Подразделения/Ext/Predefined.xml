@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.12">
+	<Item id="db9ee5dc-9498-4fb3-a77b-770583a4d2c7">
+		<Name>Бухгалтерия</Name>
+		<Code>000000001</Code>
+		<Description>Бухгалтерия</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>
