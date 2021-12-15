@@ -231,13 +231,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Document.ПоступлениеТоваровИУслуг.Attribute.Поставщик</name>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Report.ПоставщикиНоменклатура</name>
 		<right>
 			<name>Use</name>
@@ -380,21 +373,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Document.ПоступлениеТоваровИУслуг.Attribute.СуммаДокумента</name>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Document.ВыпискаБанка.TabularSection.ПриходДенежныхСредств</name>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document.ПоступлениеТоваровИУслуг.Attribute.Склад</name>
 		<right>
 			<name>Edit</name>
 			<value>false</value>
@@ -741,13 +720,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Document.ПоступлениеТоваровИУслуг.TabularSection.Товары.Attribute.Товар</name>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Document.РеализцияТоваровИУслуг</name>
 		<right>
 			<name>Read</name>
@@ -801,7 +773,74 @@
 		</right>
 	</object>
 	<object>
-		<name>Document.ПоступлениеТоваровИУслуг.TabularSection.Товары.Attribute.Сумма</name>
+		<name>Catalog.Организация</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>Catalog.Организация.StandardAttribute.PredefinedDataName</name>
+		<right>
+			<name>Edit</name>
+			<value>false</value>
+		</right>
+	</object>
+	<object>
+		<name>Catalog.Организация.StandardAttribute.Predefined</name>
+		<right>
+			<name>Edit</name>
+			<value>false</value>
+		</right>
+	</object>
+	<object>
+		<name>Catalog.Организация.StandardAttribute.Ref</name>
+		<right>
+			<name>Edit</name>
+			<value>false</value>
+		</right>
+	</object>
+	<object>
+		<name>Catalog.Организация.StandardAttribute.DeletionMark</name>
+		<right>
+			<name>Edit</name>
+			<value>false</value>
+		</right>
+	</object>
+	<object>
+		<name>Catalog.Организация.StandardAttribute.IsFolder</name>
+		<right>
+			<name>Edit</name>
+			<value>false</value>
+		</right>
+	</object>
+	<object>
+		<name>Catalog.Организация.StandardAttribute.Owner</name>
+		<right>
+			<name>Edit</name>
+			<value>false</value>
+		</right>
+	</object>
+	<object>
+		<name>Catalog.Организация.StandardAttribute.Parent</name>
+		<right>
+			<name>Edit</name>
+			<value>false</value>
+		</right>
+	</object>
+	<object>
+		<name>Catalog.Организация.StandardAttribute.Description</name>
+		<right>
+			<name>Edit</name>
+			<value>false</value>
+		</right>
+	</object>
+	<object>
+		<name>Catalog.Организация.StandardAttribute.Code</name>
 		<right>
 			<name>Edit</name>
 			<value>false</value>
@@ -809,13 +848,6 @@
 	</object>
 	<object>
 		<name>Document.ЗаказКлиента.TabularSection.Товары.Attribute.Сумма</name>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document.ПоступлениеТоваровИУслуг.TabularSection.Товары</name>
 		<right>
 			<name>Edit</name>
 			<value>false</value>
@@ -866,13 +898,6 @@
 	</object>
 	<object>
 		<name>Document.ВыпискаБанка.TabularSection.РасходДенежныхСредств.Attribute.Сумма</name>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document.ПоступлениеТоваровИУслуг.TabularSection.Товары.Attribute.Количество</name>
 		<right>
 			<name>Edit</name>
 			<value>false</value>
@@ -1107,52 +1132,12 @@
 		<right>
 			<name>Read</name>
 			<value>true</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Document.ПоступлениеТоваровИУслуг.StandardAttribute.Posted</name>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document.ПоступлениеТоваровИУслуг.StandardAttribute.Ref</name>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document.ПоступлениеТоваровИУслуг.StandardAttribute.DeletionMark</name>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document.ПоступлениеТоваровИУслуг.StandardAttribute.Date</name>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document.ПоступлениеТоваровИУслуг.StandardAttribute.Number</name>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document.ПоступлениеТоваровИУслуг.TabularSection.Товары.Attribute.Цена</name>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
+			<restrictionByCondition>
+				<condition>ПоступлениеТоваровИУслуг ИЗ Документ.ПоступлениеТоваровИУслуг КАК ПоступлениеТоваровИУслуг
+	ВНУТРЕННЕЕ СОЕДИНЕНИЕ Справочник.Пользователи КАК Пользователи
+	ПО ПоступлениеТоваровИУслуг.Организация = Пользователи.Организация
+		И (Пользователи.Ссылка = &amp;ТекущийПользователь)</condition>
+			</restrictionByCondition>
 		</right>
 	</object>
 	<object>
