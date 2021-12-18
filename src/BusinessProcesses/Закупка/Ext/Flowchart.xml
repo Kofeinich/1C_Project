@@ -335,7 +335,7 @@
 						<PortIndex>2</PortIndex>
 					</From>
 					<To>
-						<Item>СогласоватьЗакупку</Item>
+						<Item/>
 						<PortIndex>5</PortIndex>
 					</To>
 				</Connect>
