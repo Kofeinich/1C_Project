@@ -1,30 +1,30 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.12">
-	<Task uuid="f0f75a3d-2d3e-43d0-9a43-e6aa07381269">
+	<Task uuid="c1a4164e-c742-43cd-a8c8-4da055330eb1">
 		<InternalInfo>
-			<xr:GeneratedType name="TaskObject.ЗадачиПользователя" category="Object">
-				<xr:TypeId>00f42e54-7bd9-490c-b1df-d589cc7a65d5</xr:TypeId>
-				<xr:ValueId>c3601f6f-c924-4be6-9328-4855f512d514</xr:ValueId>
+			<xr:GeneratedType name="TaskObject.Тест1" category="Object">
+				<xr:TypeId>602004d7-146a-43cb-b66d-e6fbde564277</xr:TypeId>
+				<xr:ValueId>c5851e9c-2ca2-40fa-896d-9b2a2f5b9396</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="TaskRef.ЗадачиПользователя" category="Ref">
-				<xr:TypeId>3799f6e2-c73b-4e53-8bc7-368d8ac6e51a</xr:TypeId>
-				<xr:ValueId>b76f0c21-a4c0-443f-99ce-53f08cd445f8</xr:ValueId>
+			<xr:GeneratedType name="TaskRef.Тест1" category="Ref">
+				<xr:TypeId>7fb8c3d4-ff3a-42fe-8a97-9262183a8102</xr:TypeId>
+				<xr:ValueId>f91f248f-547c-43b7-b226-ba84710aec6d</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="TaskSelection.ЗадачиПользователя" category="Selection">
-				<xr:TypeId>5a205513-2992-4a21-9518-eb10a7ec97e7</xr:TypeId>
-				<xr:ValueId>67eaa7ff-ea09-489c-912e-04f38f40e291</xr:ValueId>
+			<xr:GeneratedType name="TaskSelection.Тест1" category="Selection">
+				<xr:TypeId>55ceb3bc-cb44-405c-b651-505a0b5b00d3</xr:TypeId>
+				<xr:ValueId>43f29450-cd24-483a-b444-5aca97c86f8a</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="TaskList.ЗадачиПользователя" category="List">
-				<xr:TypeId>0e8d606a-e77a-471f-830c-7457c2136437</xr:TypeId>
-				<xr:ValueId>df352e42-044e-44b6-bac9-16ca301adeec</xr:ValueId>
+			<xr:GeneratedType name="TaskList.Тест1" category="List">
+				<xr:TypeId>6ba9ddf2-6aea-4c5d-9229-15cfffa50861</xr:TypeId>
+				<xr:ValueId>7db58ad1-61fc-4e11-a46d-80e24591566e</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="TaskManager.ЗадачиПользователя" category="Manager">
-				<xr:TypeId>9eed1750-4718-4648-9908-99dfd63e4864</xr:TypeId>
-				<xr:ValueId>4cfc828e-6ede-4c94-9f41-55a76ab681ac</xr:ValueId>
+			<xr:GeneratedType name="TaskManager.Тест1" category="Manager">
+				<xr:TypeId>92fe9010-6f14-452a-a0bf-1f02cfff5ba9</xr:TypeId>
+				<xr:ValueId>d5bb9032-8f38-49b4-b7e6-7e1c0ae78630</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>ЗадачиПользователя</Name>
+			<Name>Тест1</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
@@ -40,25 +40,22 @@
 			<Autonumbering>true</Autonumbering>
 			<TaskNumberAutoPrefix>DontUse</TaskNumberAutoPrefix>
 			<DescriptionLength>25</DescriptionLength>
-			<Addressing>InformationRegister.Адресация</Addressing>
-			<MainAddressingAttribute>Task.ЗадачиПользователя.AddressingAttribute.Пользователь</MainAddressingAttribute>
-			<CurrentPerformer>SessionParameter.ТекущийПользователь</CurrentPerformer>
-			<BasedOn>
-				<xr:Item xsi:type="xr:MDObjectRef">Document.ЗаказКлиента</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Контрагенты</xr:Item>
-			</BasedOn>
+			<Addressing/>
+			<MainAddressingAttribute/>
+			<CurrentPerformer/>
+			<BasedOn/>
 			<Characteristics/>
 			<DefaultPresentation>AsDescription</DefaultPresentation>
 			<EditType>InDialog</EditType>
 			<InputByString>
-				<xr:Field>Task.ЗадачиПользователя.StandardAttribute.Description</xr:Field>
-				<xr:Field>Task.ЗадачиПользователя.StandardAttribute.Number</xr:Field>
+				<xr:Field>Task.Тест1.StandardAttribute.Description</xr:Field>
+				<xr:Field>Task.Тест1.StandardAttribute.Number</xr:Field>
 			</InputByString>
 			<SearchStringModeOnInputByString>Begin</SearchStringModeOnInputByString>
 			<FullTextSearchOnInputByString>DontUse</FullTextSearchOnInputByString>
 			<ChoiceDataGetModeOnInputByString>Directly</ChoiceDataGetModeOnInputByString>
 			<CreateOnInput>DontUse</CreateOnInput>
-			<DefaultObjectForm>Task.ЗадачиПользователя.Form.ЗадачиПользователя</DefaultObjectForm>
+			<DefaultObjectForm>Task.Тест1.Form.ФормаЗадачи</DefaultObjectForm>
 			<DefaultListForm/>
 			<DefaultChoiceForm/>
 			<AuxiliaryObjectForm/>
@@ -79,7 +76,7 @@
 			<ExecuteAfterWriteDataHistoryVersionProcessing>false</ExecuteAfterWriteDataHistoryVersionProcessing>
 		</Properties>
 		<ChildObjects>
-			<Attribute uuid="8b768b35-d502-4b3e-b2b3-59062e0fcb3c">
+			<Attribute uuid="befabfd3-860d-460b-93b5-5d7b5916b9b0">
 				<Properties>
 					<Name>Результат</Name>
 					<Synonym>
@@ -118,7 +115,7 @@
 					<DataHistory>Use</DataHistory>
 				</Properties>
 			</Attribute>
-			<Attribute uuid="4a38884c-aea0-4ec0-b588-8cb06135d1a2">
+			<Attribute uuid="3cb9eb0d-bc08-4860-81f9-af5d4f18305c">
 				<Properties>
 					<Name>ДатаФактическогоВыполнения</Name>
 					<Synonym>
@@ -160,7 +157,7 @@
 					<DataHistory>Use</DataHistory>
 				</Properties>
 			</Attribute>
-			<Attribute uuid="4487e523-43ea-485b-a408-d8cbc6c2e90b">
+			<Attribute uuid="1bdfe158-9d79-49e2-8303-615263e9df8b">
 				<Properties>
 					<Name>Предмет</Name>
 					<Synonym>
@@ -205,8 +202,8 @@
 					<DataHistory>Use</DataHistory>
 				</Properties>
 			</Attribute>
-			<Form>ЗадачиПользователя</Form>
-			<AddressingAttribute uuid="7f8e62e1-7bc0-49f2-8119-ebbbad3f69a4">
+			<Form>ФормаЗадачи</Form>
+			<AddressingAttribute uuid="43136e5b-d936-474c-8c6c-37ff3ef63ae4">
 				<Properties>
 					<Name>Пользователь</Name>
 					<Synonym>
@@ -217,11 +214,7 @@
 					</Synonym>
 					<Comment/>
 					<Type>
-						<v8:Type>xs:string</v8:Type>
-						<v8:StringQualifiers>
-							<v8:Length>10</v8:Length>
-							<v8:AllowedLength>Variable</v8:AllowedLength>
-						</v8:StringQualifiers>
+						<v8:Type>cfg:CatalogRef.Пользователи</v8:Type>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>
@@ -234,7 +227,7 @@
 					<MinValue xsi:nil="true"/>
 					<MaxValue xsi:nil="true"/>
 					<FillFromFillingValue>false</FillFromFillingValue>
-					<FillValue xsi:type="xs:string"/>
+					<FillValue xsi:nil="true"/>
 					<FillChecking>DontCheck</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
 					<ChoiceParameterLinks/>
@@ -250,7 +243,7 @@
 					<DataHistory>Use</DataHistory>
 				</Properties>
 			</AddressingAttribute>
-			<AddressingAttribute uuid="164556dc-26a1-4280-8815-2fb5dedf762c">
+			<AddressingAttribute uuid="e10361d6-4ed5-4de8-99f1-2a2750bbf060">
 				<Properties>
 					<Name>Подразделения</Name>
 					<Synonym>
@@ -290,7 +283,7 @@
 					<DataHistory>Use</DataHistory>
 				</Properties>
 			</AddressingAttribute>
-			<Command uuid="adc93955-92c5-42b1-bd42-d9a1d275f5a0">
+			<Command uuid="796070a7-b7e5-4832-a395-432a5b652659">
 				<Properties>
 					<Name>ЗадачиМне</Name>
 					<Synonym>

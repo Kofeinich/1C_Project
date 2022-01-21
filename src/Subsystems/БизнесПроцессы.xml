@@ -18,7 +18,8 @@
 				<xr:Item xsi:type="xr:MDObjectRef">BusinessProcess.Закупка</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.Адресация</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Подразделения</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">Task.ЗадачиПользователя</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">f0f75a3d-2d3e-43d0-9a43-e6aa07381269</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Task.Тест1</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

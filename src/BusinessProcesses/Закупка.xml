@@ -62,7 +62,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Document.ЗаказКлиента</xr:Item>
 			</BasedOn>
 			<NumberPeriodicity>Nonperiodical</NumberPeriodicity>
-			<Task>Task.ЗадачиПользователя</Task>
+			<Task>Task.Тест1</Task>
 			<CreateTaskInPrivilegedMode>true</CreateTaskInPrivilegedMode>
 			<DataLockFields/>
 			<DataLockControlMode>Managed</DataLockControlMode>

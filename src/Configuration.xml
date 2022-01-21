@@ -258,7 +258,7 @@
 			<AccumulationRegister>Взаиморасчеты</AccumulationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>
 			<BusinessProcess>Закупка</BusinessProcess>
-			<Task>ЗадачиПользователя</Task>
+			<Task>Тест1</Task>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

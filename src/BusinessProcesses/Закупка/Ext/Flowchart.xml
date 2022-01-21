@@ -154,10 +154,10 @@
 				<Explanation/>
 				<Group>false</Group>
 				<AddressingAttributes>
-					<AddressingAttribute ref="Task.ЗадачиПользователя.AddressingAttribute.Пользователь">
+					<AddressingAttribute ref="Task.Тест1.AddressingAttribute.Пользователь">
 						<Value xsi:nil="true"/>
 					</AddressingAttribute>
-					<AddressingAttribute ref="Task.ЗадачиПользователя.AddressingAttribute.Подразделения">
+					<AddressingAttribute ref="Task.Тест1.AddressingAttribute.Подразделения">
 						<Value xsi:nil="true"/>
 					</AddressingAttribute>
 				</AddressingAttributes>
@@ -246,10 +246,10 @@
 				<Explanation/>
 				<Group>false</Group>
 				<AddressingAttributes>
-					<AddressingAttribute ref="Task.ЗадачиПользователя.AddressingAttribute.Пользователь">
+					<AddressingAttribute ref="Task.Тест1.AddressingAttribute.Пользователь">
 						<Value xsi:nil="true"/>
 					</AddressingAttribute>
-					<AddressingAttribute ref="Task.ЗадачиПользователя.AddressingAttribute.Подразделения">
+					<AddressingAttribute ref="Task.Тест1.AddressingAttribute.Подразделения">
 						<Value xsi:nil="true"/>
 					</AddressingAttribute>
 				</AddressingAttributes>
